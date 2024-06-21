@@ -9,6 +9,8 @@ Ainda não trabalho na área, mas estou focado em realizar projetos para aprimor
 ### O que estou estudando
 [![My Skills](https://skillicons.dev/icons?i=react,php,ts,xd&perline=10)](https://skillicons.dev)
 
+##
+
 <div> 
   <a href="https://www.instagram.com/itsneuba.rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:neubamurilo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
