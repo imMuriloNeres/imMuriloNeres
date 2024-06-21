@@ -5,7 +5,11 @@ Estudo programação voltada para **Front-end** e também **UX/UI Design** para 
 Ainda não trabalho na área, mas estou focado em realizar projetos para aprimorar meu conhecimento.
 
 ## Meus conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,figma&perline=3)](https://skillicons.dev)
+<div style="display: flex;">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,figma&perline=3)](https://skillicons.dev)  
+</div>
+
 
 ## O que estou estudando
 [![My Skills](https://skillicons.dev/icons?i=react,php,ts,xd&perline=3)](https://skillicons.dev)
