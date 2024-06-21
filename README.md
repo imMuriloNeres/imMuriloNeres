@@ -1,12 +1,12 @@
 ## Hi there 👋
 
+<!-- 
 <a href="https://github.com/imMuriloNeres/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=imMuriloNeres&theme=onedark" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=imMuriloNeres&theme=onedark"/>
 </a>
 <a href="https://github.com/imMuriloNeres/convoychat">
-  <img height=180em width=500em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imMuriloNeres&layout=compact&langs_count=8&card_width=100" />
-</a>
-
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imMuriloNeres&layout=compact&langs_count=8&card_width=100"&theme=onedark/>
+</a> -->
 
 <!--
 **imMuriloNeres/imMuriloNeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
