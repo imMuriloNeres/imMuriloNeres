@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/imMuriloNeres/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imMuriloNeres&theme=onedark" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=imMuriloNeres&theme=onedark" />
 </a>
 <a href="https://github.com/imMuriloNeres/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imMuriloNeres&layout=compact&langs_count=8&card_width=100" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imMuriloNeres&layout=compact&langs_count=8&card_width=100" />
 </a>
 
 
