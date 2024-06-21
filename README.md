@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imMuriloNeres&show_icons=true&theme=onedark)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imMuriloNeres&layout=donut-vertical)](https://github.com/imMuriloNeres/github-readme-stats&theme=onedark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 
 
