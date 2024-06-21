@@ -1,5 +1,4 @@
-# Olá a todos! 
-## Me chamo Murilo Neres 👋
+## Olá a todos! Me chamo Murilo Neres 👋
 Estudo programação voltada para **Front-end** e também **UX/UI Design** para ter uma melhor compreensão do desenvolvimento front-end.
 Ainda não trabalho na área, mas estou focado em realizar projetos para aprimorar meu conhecimento.
 
