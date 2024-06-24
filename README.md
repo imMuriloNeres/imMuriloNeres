@@ -4,10 +4,10 @@ Ainda não trabalho na área, mas estou focado em realizar projetos para aprimor
 
 Faço Tecnologia em Análise e Desenvolvimento de Sistemas na UNISO, estou atualmente no 4º semestre.
 ### Meus conhecimentos  
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,figma&perline=10)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma&perline=10)](https://skillicons.dev)  
 
 ### Me aprofundando em
-[![My Skills](https://skillicons.dev/icons?i=js,php&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,mysql&perline=10)](https://skillicons.dev)
 
 ### O que também estou estudando
 [![My Skills](https://skillicons.dev/icons?i=react,ts,xd&perline=10)](https://skillicons.dev)
