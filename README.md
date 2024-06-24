@@ -7,10 +7,10 @@ Faço Tecnologia em Análise e Desenvolvimento de Sistemas na UNISO, estou atual
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,figma&perline=10)](https://skillicons.dev)  
 
 ### Me aprofundando em
-[![My Skills](https://skillicons.dev/icons?i=js&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php&perline=10)](https://skillicons.dev)
 
 ### O que também estou estudando
-[![My Skills](https://skillicons.dev/icons?i=react,php,ts,xd&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,xd&perline=10)](https://skillicons.dev)
 
 ##
 
