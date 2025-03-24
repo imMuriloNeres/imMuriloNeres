@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently, I’m studying Systems Analysis and Development at UNISO, always looking to improve my skills, explore new technologies, and work on projects to solidify my knowledge. 🚀🚀<br><br>Fun fact about me: for some reason, in my free time, I take a COBOL course. I’m not entirely sure how that happened, but here we are. ☝️🤓</p>
+<p align="left">Currently, I’m studying Systems Analysis and Development at UNISO, always looking to improve my skills, explore new technologies, and work on projects to solidify my knowledge. 🚀🚀<br><br><i><strong>Fun fact about me:</strong> for some reason, in my free time, I take a COBOL course. I’m not entirely sure how that happened, but here we are. </i>☝️🤓</p>
 
 ###
 
