@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently, I’m studying Systems Analysis and Development at UNISO, always looking to improve my skills, explore new technologies, and work on projects to solidify my knowledge. 🚀🚀<br><br><i>
+<p align="left">Currently, I’m studying Systems Analysis and Development at UNISO, always looking to improve my skills, explore new technologies, and work on projects to solidify my knowledge. 🚀🚀<br><i>
 
 ###
 
