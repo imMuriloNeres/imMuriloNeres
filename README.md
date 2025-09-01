@@ -45,9 +45,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank">
 </div>
 
-###
-
-<p align="left">I'm not including COBOL on this list, yet...</p>
 
 ###
 
